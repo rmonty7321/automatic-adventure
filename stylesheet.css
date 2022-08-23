@@ -23,7 +23,8 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  color: grey;
+  color: black;
+  background-color: #f7f7f7;
   text-align: center;
 }
 
